@@ -9,7 +9,8 @@ import com.smartfoxserver.v2.SmartFoxServer;
 /**
  * @author Johanny Angarita
  * @version 1.0
- *          {@link jangarita.me}
+ *          {@link http://www.jangarita.me/maquina-de-estados-para-smartfoxserver}
+ *          {@link https://github.com/jangarita/Simple-SmartFoxServer-Finite-State-Machine}
  */
 public class FSM
 {
