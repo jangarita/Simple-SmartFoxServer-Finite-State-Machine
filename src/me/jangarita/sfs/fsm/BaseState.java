@@ -30,8 +30,6 @@ public abstract class BaseState implements FSMState
 		params.putUtfString("name", getName());
 		params.putSFSObject("data", getStateData());
 
-		System.out.println("EXT: " + getExtension());
-
 		if (_user == null)
 		{
 			getExtension().send("state-change", params, getExtension().getParentRoom().getUserList());
