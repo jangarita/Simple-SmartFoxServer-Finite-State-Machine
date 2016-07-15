@@ -7,7 +7,7 @@ import states.GreenState;
 import states.RedState;
 import states.YellowState;
 
-public class GemGoLobbyRoomExtension extends SFSExtension
+public class FSMRoomExtension extends SFSExtension
 {
 	@Override
 	public void init()
