@@ -1,7 +1,7 @@
 # Simple SmartFoxServer Finite State Machine
 This is a simple finite state machine ready for SmartFoxServer.
 
-> More info: [jangarita.me](http://www.jangarita.me/maquina-de-estados-para-smartfoxserver).
+> More info: [jangarita.me](http://www.jangarita.me/maquina-de-estados-para-smartfoxserver) (in spanish).
 
 **Usage:**
 
